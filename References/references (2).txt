@@ -1,0 +1,10 @@
+https://groups.google.com/forum/#!forum/cloudsim
+
+http://www.cloudbus.org/cloudsim/doc/api/org/cloudbus/cloudsim/class-use/Vm.html
+
+https://stackoverflow.com/questions/43631570/task-re-scheduling-cloudlet-migration-in-cloudsim
+
+https://stackoverflow.com/questions/37537396/how-to-change-scheduling-policy-in-cloudsim
+
+
+https://groups.google.com/forum/#!topic/cloudsim/-_Vi3SCURcY
