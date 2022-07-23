@@ -1,4 +1,6 @@
-# Eco Aware Load Balancing in Green Cloud Datacenters using Modified Bacterial Foraging Optimization (BFOA) Algorithm
+# Eco Aware Load Balancing in Green Cloud Datacenters 
+
+Usage of BFOA algorithm to perfom load balancing in Green Cloud Datacenters.
 
 * This project is based on top of [Cloudsim](https://github.com/Cloudslab/cloudsim), an open source framework for simulating Cloud infrastructure services.
 * The aim is to perform load balancing optimally based on the renewable energy levels in the datacenter.
